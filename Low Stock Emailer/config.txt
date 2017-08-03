@@ -1,0 +1,2 @@
+API_Key=Replace with your veeqo API key
+Email_Address=Replace with your Email Address
