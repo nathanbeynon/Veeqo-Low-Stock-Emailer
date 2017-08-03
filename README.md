@@ -14,7 +14,7 @@ Provide your API key and Email Address.
 You should generate your API code firstly in http://app.veeqo.com/employees
 
 ```
-cd .\Desktop\Low Stock Emailer
+cd .\Low Stock Emailer
 java -jar LowStock.jar
 
 ```
