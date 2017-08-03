@@ -8,7 +8,7 @@ Requirements
 
 How to launch
 ====
-Download Low Stock Emailer folder
+Download Low Stock Emailer folder. 
 Edit Config.txt 
 Provide your API key and Email Address. 
 You should generate your API code firstly in http://app.veeqo.com/employees
